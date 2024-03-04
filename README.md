@@ -69,7 +69,7 @@
 <hr/>
 
 <br/>
-
-
-
+<div align="center">
+<h3>Thank you all</h3>
+</div>
 <br/>
