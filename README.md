@@ -4,10 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Myanmar</h3>
+<h3 align="center">A passionate software developer from Myanmar
+🇲🇲</h3>
 
-<div align="center">
-<br/>![MyanmarMyanmarFlagGIF](https://github.com/nainglinthant111/nainglinthant111/assets/82263994/9e22cd12-ba4e-48bf-b3ca-e1c572e706c2)
 
 
 <div align="center">
