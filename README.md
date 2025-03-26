@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Developing Conpany**
  
- 🌱 I’m currently learning **Docker, Algular, 
+ 🌱 I’m currently learning ** | Docker | Algular | React & Next.js | AWS
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://portfolio-nlt.vercel.app/)**
 
