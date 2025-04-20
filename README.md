@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning ** | Docker | Algular | React & Next.js | AWS
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://portfolio-nlt.vercel.app/)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://nainglinthant.vercel.app/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
