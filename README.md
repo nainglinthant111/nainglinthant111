@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Developing Conpany**
+ 🔭 I’m currently working on **Developing Company**
  
  🌱 I’m currently learning ** | Docker | Algular | React & Next.js | AWS
 
